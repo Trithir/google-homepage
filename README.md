@@ -1,4 +1,4 @@
-# mockGoogle
+# google-homepage
 -Project was to reverse engineer a replica of the google home-page. Looks only, not functionality.
 
 
